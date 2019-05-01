@@ -1,0 +1,8 @@
+numpy
+qiskit
+qiskit-aer
+qiskit-terra
+matplotlib
+scipy
+setuptools
+wheel
