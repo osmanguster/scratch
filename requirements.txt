@@ -6,3 +6,5 @@ matplotlib
 scipy
 setuptools
 wheel
+marshmallow
+tornado
